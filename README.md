@@ -22,6 +22,10 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman" /></a>
 </p>
 
+# 🚀 Projects:
+- **Gifts Corner (E-Commerce Platform):** Built backend with NestJS, managing products, inventory, wishlist, and transactions.
+- **Lenno Lab (Lab Management System):** Created a system for billing, test management, multi-company handling, and barcode integration.
+- **News Portal & Operation Record Keeping:** Backend development for structured content and data storage.
 ## 🌐 Let's get connected:
 <p>
   <a href="#" style="text-decoration: none;">
