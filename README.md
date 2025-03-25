@@ -35,10 +35,10 @@
   
 # 📊 GitHub Stats:
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=SudhaSarraf&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
-    height="220" 
-    alt="Streak Graph" 
+  <img
+    src="https://streak-stats.demolab.com?user=SudhaSarraf&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+    height="220"
+    alt="Streak Graph"
   />
 </div>
 
